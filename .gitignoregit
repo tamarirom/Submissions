@@ -1,0 +1,2 @@
+obj/  rm -r --cached .vs
+obj/  rm -r --cached .vs
