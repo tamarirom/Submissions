@@ -1,0 +1,12 @@
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\bin\Debug\net8.0\Clean.Core.deps.json
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\bin\Debug\net8.0\Clean.Core.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\bin\Debug\net8.0\Clean.Core.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.AssemblyInfoInputs.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.AssemblyInfo.cs
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.csproj.CoreCompileInputs.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.sourcelink.json
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\refint\Clean.Core.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\Clean.Core.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Core\obj\Debug\net8.0\ref\Clean.Core.dll

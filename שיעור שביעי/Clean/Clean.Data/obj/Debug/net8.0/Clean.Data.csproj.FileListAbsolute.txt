@@ -1,0 +1,16 @@
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.csproj.AssemblyReference.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.AssemblyInfoInputs.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.AssemblyInfo.cs
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.csproj.CoreCompileInputs.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.sourcelink.json
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.deps.json
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\bin\Debug\net8.0\Clean.Data.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\bin\Debug\net8.0\Clean.Core.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\bin\Debug\net8.0\Clean.Core.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.csproj.Up2Date
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\refint\Clean.Data.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\Clean.Data.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Data\obj\Debug\net8.0\ref\Clean.Data.dll

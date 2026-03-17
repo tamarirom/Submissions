@@ -1,0 +1,16 @@
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.csproj.AssemblyReference.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.AssemblyInfoInputs.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.AssemblyInfo.cs
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.csproj.CoreCompileInputs.cache
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.sourcelink.json
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\bin\Debug\net8.0\Clean.Service.deps.json
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\bin\Debug\net8.0\Clean.Service.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\bin\Debug\net8.0\Clean.Service.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\bin\Debug\net8.0\Clean.Core.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\bin\Debug\net8.0\Clean.Core.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Se.BDC7D207.Up2Date
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\refint\Clean.Service.dll
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\Clean.Service.pdb
+C:\.NET\Submissions\שיעור שביעי\Clean\Clean.Service\obj\Debug\net8.0\ref\Clean.Service.dll

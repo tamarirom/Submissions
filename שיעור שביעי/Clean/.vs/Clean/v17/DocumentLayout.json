@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|solutionrelative:clean.service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.core\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EB82C0-2077-4BAA-A0E6-78D164C3D4EC}|Clean\\Clean.API.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EB82C0-2077-4BAA-A0E6-78D164C3D4EC}|Clean\\Clean.API.csproj|solutionrelative:clean\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Clean.Data\\DataContext.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\DataContext.cs",
+              "RelativeToolTip": "Clean.Data\\DataContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:33:10.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Clean\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Clean\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:13:25.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Core\\Services\\IProjectService.cs",
+              "RelativeDocumentMoniker": "Clean.Core\\Services\\IProjectService.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Core\\Services\\IProjectService.cs",
+              "RelativeToolTip": "Clean.Core\\Services\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:13:54.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Core\\Repositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Clean.Core\\Repositories\\IProjectRepository.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Core\\Repositories\\IProjectRepository.cs",
+              "RelativeToolTip": "Clean.Core\\Repositories\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:13:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Clean.Data\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Clean.Data\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:13:43.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Service\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Clean.Service\\ProjectService.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Service\\ProjectService.cs",
+              "RelativeToolTip": "Clean.Service\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:13:36.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
