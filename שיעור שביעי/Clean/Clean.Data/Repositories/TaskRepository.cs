@@ -19,7 +19,7 @@ namespace Clean.Data.Repositories
 
         public Task GetById(int taskId)
         {
-            return _context.Tasks.Find(t => t.ProjectId == taskId);
+            return _context.Tasks.ToList().Find(t => t.ProjectId == taskId);
         }
 
         public List<Task> GetAll()
@@ -34,7 +34,7 @@ namespace Clean.Data.Repositories
 
         public void UpdateTask(int id, Task UpdateTask)
         {
-            Task newTask = _context.Tasks.Find(t => t.Id == id);
+            Task newTask = _context.Tasks.ToList().Find(t => t.Id == id);
 
             if (newTask != null)
             {
@@ -46,7 +46,7 @@ namespace Clean.Data.Repositories
 
         public void DeleteTask(int id)
         {
-            Task task = _context.Tasks.Find(t => t.Id == id);
+            Task task = _context.Tasks.ToList().Find(t => t.Id == id);
 
             if (task != null)
             {

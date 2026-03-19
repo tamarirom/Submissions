@@ -20,12 +20,12 @@ namespace Clean.Data.Repositories
 
         public List<Project> Get()
         {
-            return _context.Projects;
+            return _context.Projects.ToList();
         }
 
         public Project GetById(int id)
         {
-            return _context.Projects.Find(p => p.Id == id);
+            return _context.Projects.ToList().Find(p => p.Id == id);
         }
 
         public void AddProject(Project newProject)
@@ -35,7 +35,7 @@ namespace Clean.Data.Repositories
 
         public void UpdateProject(int id, Project updatedProject)
         {
-            var project = _context.Projects.Find(p => p.Id == id);
+            var project = _context.Projects.ToList().Find(p => p.Id == id);
 
             if (project != null)
             {
@@ -46,7 +46,7 @@ namespace Clean.Data.Repositories
 
         public void DeleteProject(int id)
         {
-            var project = _context.Projects.Find(p => p.Id == id);
+            var project = _context.Projects.ToList().Find(p => p.Id == id);
 
             if (project != null)
             {

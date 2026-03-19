@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|solutionrelative:clean.service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\migrations\\20260319121959_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\migrations\\20260319121959_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.core\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4EB82C0-2077-4BAA-A0E6-78D164C3D4EC}|Clean\\Clean.API.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4EB82C0-2077-4BAA-A0E6-78D164C3D4EC}|Clean\\Clean.API.csproj|solutionrelative:clean\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC9A114-3CC3-43BF-998A-41DFC4551D21}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|solutionrelative:clean.service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.service\\clean.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C5D842A-095A-4E5C-A560-A2C5A74CA8C8}|Clean.Service\\Clean.Service.csproj|solutionrelative:clean.service\\clean.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53BC18A-6F90-49E6-87B2-803B024DA3F1}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EB82C0-2077-4BAA-A0E6-78D164C3D4EC}|Clean\\Clean.API.csproj|c:\\.net\\submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\clean\\clean\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EB82C0-2077-4BAA-A0E6-78D164C3D4EC}|Clean\\Clean.API.csproj|solutionrelative:clean\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "20260319121959_Init.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Migrations\\20260319121959_Init.cs",
+              "RelativeDocumentMoniker": "Clean.Data\\Migrations\\20260319121959_Init.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Migrations\\20260319121959_Init.cs",
+              "RelativeToolTip": "Clean.Data\\Migrations\\20260319121959_Init.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:23:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Clean.Data\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Clean.Data\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:19:00.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clean.Service.csproj",
+              "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Service\\Clean.Service.csproj",
+              "RelativeDocumentMoniker": "Clean.Service\\Clean.Service.csproj",
+              "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Service\\Clean.Service.csproj",
+              "RelativeToolTip": "Clean.Service\\Clean.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T11:56:38.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Clean.Data\\DataContext.cs",
               "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\DataContext.cs",
               "RelativeToolTip": "Clean.Data\\DataContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T03:33:10.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Clean\\Controllers\\ProjectController.cs",
@@ -59,8 +107,7 @@
               "RelativeToolTip": "Clean\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAcwDEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T03:13:25.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T03:13:25.013Z"
             },
             {
               "$type": "Document",
@@ -72,12 +119,11 @@
               "RelativeToolTip": "Clean.Core\\Services\\IProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T03:13:54.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T03:13:54.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Core\\Repositories\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "Clean.Core\\Repositories\\IProjectRepository.cs",
@@ -85,34 +131,31 @@
               "RelativeToolTip": "Clean.Core\\Repositories\\IProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T03:13:16.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T03:13:16.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProjectRepository.cs",
               "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Repositories\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "Clean.Data\\Repositories\\ProjectRepository.cs",
               "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Data\\Repositories\\ProjectRepository.cs",
               "RelativeToolTip": "Clean.Data\\Repositories\\ProjectRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwC4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAA5wDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T03:13:43.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T03:13:43.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Service\\ProjectService.cs",
               "RelativeDocumentMoniker": "Clean.Service\\ProjectService.cs",
               "ToolTip": "C:\\.NET\\Submissions\\\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E9\u05D1\u05D9\u05E2\u05D9\\Clean\\Clean.Service\\ProjectService.cs",
               "RelativeToolTip": "Clean.Service\\ProjectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T03:13:36.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T03:13:36.77Z"
             }
           ]
         }
